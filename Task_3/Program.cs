@@ -43,7 +43,7 @@ void PrintArray (int[] array)
         }
     }
     
-Console.WriteLine($"разницу между  максимальным и минимальным"
+Console.WriteLine($"Разница между  максимальным и минимальным "
                     +$"элементом массива равна: {Max - Min}");
 
 }
